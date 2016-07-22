@@ -16,20 +16,19 @@ section{
 }
 #header{
 	background-color: #ebebeb;
-	width: 100%;
+	width: 98%;
 	padding: 20px;
 	margin-bottom: 20px;
 }
 #nav{
 	background-color: #ebebeb;
-	width: 100%;
+	width: 98%;
 	padding: 20px;
 	margin-bottom: 20px;
 }
 #section{
 	background-color: #ebebeb;
-	width: 60%;
-	padding: 20px;
+	padding: 10px;
 	float:left;
 }
 #article{
@@ -53,13 +52,13 @@ section{
 #aside{
 	background-color: #ebebeb;
 	width:40%;
-	padding: 20px;
+	padding: 210px;
 	display: block;
-	float:left;
+	float:right;
 }
 #footer{
 	background-color: #ebebeb;
-	width: 100%;
+	width: 98%;
 	padding: 20px;
 	float: left
 }
